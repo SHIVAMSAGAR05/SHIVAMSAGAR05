@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **React, MongoDB,Bootstrap**
 
 - 📫 How to reach me **shivam.sagar.shivam@gmail.com**
-- <img align = "right" width = "350" height = "350" src = "https://cdn.dribbble.com/users/2844289/screenshots/12049681/media/f1639d121996528e72f09f481a4b6ae2.gif" alt = "mygif">
+- <video align = "right" width = "350" height = "350" src = "https://cdn.dribbble.com/users/836931/screenshots/17614726/media/0f402d263ef193a93e740bdabc3ec78f.mp4" autoplay type="mp4">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
