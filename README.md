@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **React, MongoDB,Bootstrap**
 
 - 📫 How to reach me **shivam.sagar.shivam@gmail.com**
-- <img align = "right" width = "430" height = "250" src = "https://media0.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif?cid=ecf05e47gct4ujnxf2fvyii4cim3rfu8soven0v4pr8huep4&rid=giphy.gif&ct=g" alt="mygif">
+ <img align = "right" width = "430" height = "250" src = "https://media0.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif?cid=ecf05e47gct4ujnxf2fvyii4cim3rfu8soven0v4pr8huep4&rid=giphy.gif&ct=g" alt="mygif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
