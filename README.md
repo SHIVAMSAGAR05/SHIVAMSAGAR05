@@ -1,6 +1,4 @@
-<div align="center">
-<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
-</div>
+![Front-End Developer](https://media-exp1.licdn.com/dms/image/C4D16AQEgC7AYA4aHcg/profile-displaybackgroundimage-shrink_200_800/0/1646817707277?e=1652313600&v=beta&t=lvG62hfTwctiVkHr9wNoRQAEg79tWoGEFepajMixgXU)
 
 <h1> Hello, < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
